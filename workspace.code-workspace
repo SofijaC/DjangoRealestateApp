@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\btre_resources\\btre_resources\\btre_theme"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\btre_resources\\btre_resources\\images"
+		},
+		{
+			"path": "..\\..\\..\\Downloads\\btre_resources\\btre_resources\\logo"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DjangoRealestateApp"
+	}
+}
